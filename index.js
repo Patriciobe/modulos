@@ -1,1 +1,1 @@
-alert("Chic@s 2TDS \n el fracaso no es una opcion \nla navidad es para compartir ");
+alert("1. Eres lo más valioso para nosotros. ¡Esperamos contar contigo durante muchas Navidades más! ");
