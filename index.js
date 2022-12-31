@@ -1,2 +1,2 @@
-alert("1. Eres lo más valioso para nosotros . ¡Esperamos contar contigo durante muchos Años más! Feliz Navidad y próspero año 2023");
+alert("Saludos a todos mis amigos Que tengam un feliz año nuevo Dios los bendiga este 2023");
 
